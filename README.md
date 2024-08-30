@@ -29,13 +29,13 @@ _**👨‍💻👨‍💻برای گسترش دانش و مهارت‌هایم،
 اشاره کرد. همچنین پروژه‌های متعددی همچون
 ----------------------------------------
 
-“متانویس” (تبدیل گفتار به نوشتار آفلاین)،👨‍💻🧏‍♂️🧏‍♀️⬅🖨
+“متانویس” (تبدیل گفتار به نوشتار آفلاین)،👨‍💻🧏‍♂️🧏‍♀️➡🖨
 -----------------------------------------
 
-“عکس‌خوان” (تبدیل متن درون عکس به متن)،👨‍💻📟⬅🖨
+“عکس‌خوان” (تبدیل متن درون عکس به متن)،👨‍💻📟➡🖨
 ---------------------------------------
 
-و “کتاب گویا”👨‍💻🖨⬅🧏‍♂️🧏‍♀️
+و “کتاب گویا”👨‍💻🖨➡🧏‍♂️🧏‍♀️
 -------------
 
 را نیز به سرانجام رسانده‌ام. این پروژه‌ها نمایانگر تعهد من به نوآوری و ارتقاء تجربه‌ی کاربری در نرم‌افزارهای ویندوزی هستند.
@@ -43,16 +43,31 @@ _**👨‍💻👨‍💻برای گسترش دانش و مهارت‌هایم،
 
 **در نهایت، مسیری که طی کرده‌ام، ترکیبی از تخصص فنی، تلاش مستمر و علاقه‌ی بی‌پایان به یادگیری بوده است. اکنون، به عنوان یک برنامه‌نویس ارشد و متخصص در حوزه‌های مختلف تکنولوژی، همواره در جستجوی فرصت‌های جدید برای به چالش کشیدن خود و ارائه‌ی راه‌حل‌های نوآورانه در دنیای برنامه‌نویسی هستم. امیدوارم بتوانم با استفاده از تجربیاتم، ارزش افزوده‌ای برای تیم‌ها و پروژه‌های آینده فراهم کنم.**
 ---------------------------------------------------------------------------------------------------------------------------
-**📞📠💻تماس با من : 
-09938122801 telegram/ایتا/روبیکا
-baraye.meta@gmail.com    Gmail**
+**📞📠💻تماس با من : **
+-----------------
+**09938122801 telegram/ایتا/روبیکا**
+-----------------
+**baraye.meta@gmail.com    Gmail**
+-----------------
+-----------------
+-----------------
+## مهارت های من و چیز هایی که دارم یاد میگیرمشون👨‍💻👨‍💻 :
+
+<h2 align="left">Python | 90% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="400">
+
+<h2 align="left">PyQt5/6 >> windows Application | 90% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="400">
 
 
+<h2 align="left">SQL | 60% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="300">
 
+<h2 align="left">MySQL | 60% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="300">
 
+<h2 align="left">Sqlite3 | 60% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="300">
 
+<h2 align="left">NoSQL >> MongoDB | 80% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="300">
 
+<h2 align="left">make Intelligence data | 70% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="350">
 
+<h2 align="left">Kotlin | 20% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="100">
 
-
-
+<h2 align="left">java | 20% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="100">
