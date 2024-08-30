@@ -71,3 +71,26 @@ _**👨‍💻👨‍💻برای گسترش دانش و مهارت‌هایم،
 <h2 align="left">Kotlin | 20% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="100">
 
 <h2 align="left">java | 20% </h2>  <img scr="https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true" height="24" width="100">
+
+-----------------
+## مدارک بنده 🥇🏅🏆:
+*“[مدرک پایتون پیشرفته استادی](https://drive.google.com/file/d/1_qUKxrc0rzv5hGJEINGA9tbPdP-UNgGO/view?usp=sharing)”*
+*“[مدرک پایتون پیشرفته استادی2](https://drive.google.com/file/d/1_d2Pi-A2pLE7kkDnoBhpz5KMTcXXNgyN/view?usp=sharing)”*
+
+*“[مدرک هوشمندسازی داده](https://drive.google.com/file/d/1yYu3hnQNIwPv48_dZgtrWFIY8BrZgxE1/view?usp=sharing)”*
+*“[درباره شرکتی که در آن مشغول به کار هستم](https://drive.google.com/file/d/1YSKPOZin4f3SlYoQKzgy-hnh2d3Aw5yN/view?usp=sharing)”*
+*“[درباره من در صفحه رسمی سایت شرکت توسعه نرم افزاری جویاب](https://drive.google.com/file/d/1_SNSHJfVsNrYbDg3TJN8CEqbAAKHOnWm/view?usp=sharing)”*
+*“[مدرک پایتون پیشرفته 3](https://drive.google.com/file/d/1VlgX4ZVNAj1a0d1gC1NUk_dR8Zg3utDW/view?usp=sharing)”*
+
+*“[مدرک پایتون پیشرفته 1](https://drive.google.com/file/d/1RPvmtVaaBXsoI8OSO0wN9ZLZap6amd0s/view?usp=sharing)”*
+*“[صفحه رزومه من به انگلیسی about me english](https://drive.google.com/file/d/1_7IohV8z3n_8OXfbyM08_qKdt9O8de-l/view?usp=sharing)”*
+*“[صفحه رزومه من به فارسی about me farsi](https://drive.google.com/file/d/14jiv6lThl2btq1pThY0QiT6XS6Bn9GK7/view?usp=sharing)”*
+
+
+-----------------
+-----------------
+## در حال حاضر کجا مشغولم؟ 💻👨‍💻💻👨‍💻:
+**در حال حاضر من در شرکت توسعه نرم افزاری جویاوب به عنوان برنامه نویس ارشد ویندوز مشغول به کار هستم**
+**و علاوه بر این بنده پروژه های دانشجویی و شرکتی و شخصی و اداری را به صورت فریلنسری دریافت میکنم**
+
+
