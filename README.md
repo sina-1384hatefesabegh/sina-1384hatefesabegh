@@ -1,192 +1,205 @@
-## Hi there 👋 who am i?                    سلام دوستان 👋 من کی هستم ؟ 
-<img align="center" src="https://github.com/user-attachments/assets/3f234137-74c1-4c6f-8122-4eacc28a5b33">
-<img align="center">
+<div align="center">
 
-----------------------------------------------------------------------------------
-** **hi dears ** I am _Sajjad Azarmanesh_, nicknamed **Hatf**, born on July 27th, 2005 **
+# Sajjad Azarmanesh
+### Windows Desktop Developer | Python & PyQt Specialist | Android (Kotlin) | AI Tools Builder
 
-**From an early age, I've been captivated by technology and the world of innovation. My journey began when I was just 9 years old, diving into the fascinating realm of robotics and advanced electronics. This early passion laid the foundation for my love of programming. By the age of 16, I had taught myself advanced Python programming and soon after ventured into PyQt5, adding Windows UI design to my skill set.**
+[![Website](https://img.shields.io/badge/Website-azarmeta.com-blue?style=for-the-badge&logo=google-chrome)](https://azarmeta.com)
+[![Instagram](https://img.shields.io/badge/Instagram-sajjad__it__pro-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sajjad_it_pro)
+[![YouTube](https://img.shields.io/badge/YouTube-@electro__code369-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@electro_code369)
+[![Telegram](https://img.shields.io/badge/Telegram-@Sajjad__Azarmanesh-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Sajjad_Azarmanesh)
+[![Gmail](https://img.shields.io/badge/Email-baraye.meta@gmail.com-EA4335?style=for-the-badge&logo=gmail)](mailto:baraye.meta@gmail.com)
 
-_**👨‍💻 To continually expand my knowledge and skills, I enrolled in advanced programming and database management courses at reputable institutions like Tehran Technical Complex and IT Kandoo. These efforts enabled me to earn both international and domestic certifications in various programming domains.**_  
-_**These certifications include:**_  
-**_Python 👨‍💻_**, **_Advanced Python ⚠👨‍💻_**, **_SQL Data Connecting with MySQL ☢👨‍💻_**, **_NoSQL with MongoDB ☢👨‍💻_**, and **_Data Intelligence ☣👨‍💻_**.  
-_**These qualifications paved the way for my current role as a Senior Windows Programmer at JouyaWeb.**_
+**[🇮🇷 نسخه فارسی](#-نسخه-فارسی)**
 
-My first major industrial project, 💥[“Meta4”](https://azarmeta.com)💥, came to life at JouyaWeb, marking a significant milestone in my professional journey. The software received widespread acclaim, showcasing my expertise in designing and developing complex applications. Alongside my corporate work, I have a passion for freelancing and have successfully completed numerous projects in data intelligence, Windows data management, and student thesis projects.
-
----
-
-Other achievements include:
------------------------------------
-
-- **Development of the “[Sina Offline Persian Voice Assistant](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)”** 👨‍💻👨‍💻
-- **Creation of the “[Voice Translator](https://github.com/sina-1384hatefesabegh/voice-smart-translatore-)”** 🧏‍♂️
-- **Building a “[Speech-to-Math Problem Solver](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)”** 👨‍💻🧏‍♂️🧏‍♀️➕➖✖➗✔
-
-I've also completed projects like:
-- **"[MetaWriter (Offline Speech-to-Text)](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)"** 🧏‍♂️➡🖨
-- **"[Photo Reader (Extract Text from Images)](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)"** 📟➡🖨
-- **"[Talking Book](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)"** 🖨➡🧏‍♂️🧏‍♀️
-
-These projects reflect my commitment to innovation and enhancing user experiences in Windows applications.
+</div>
 
 ---
 
-**In conclusion, my journey has been a blend of technical expertise, continuous learning, and an unwavering passion for technology. As a Senior Programmer and a specialist in various tech domains, I'm always on the lookout for new challenges and opportunities to provide innovative solutions in the programming world. I hope to bring my experience and skills to future teams and projects, adding value wherever possible.**
+### 👋 About Me
+
+Hi, I'm **Sajjad Azarmanesh** — a passionate software developer from Iran, currently studying **Mathematics & Applications** and **Computer Science** at Semnan University.
+
+I started my journey in technology at age 9 with robotics and electronics. By 16, I was self-teaching advanced Python and building desktop applications with **PyQt**. Today I work as a **Senior Windows Programmer** at JouyaWeb while freelancing and creating educational content.
+
+I love building practical tools: offline voice assistants, speech-to-text systems, computer-vision controllers, and full desktop applications that solve real problems.
 
 ---
 
-**📞📠💻 Contact Me:**
-- **09938122801 (Telegram/Eita/Robika)**
-- **baraye.meta@gmail.com**
+### 💼 Experience
+
+**Senior Windows & Android Native Developer** — JouyaWeb  
+*Jul 2024 – Present (Part-time / Remote)*  
+- Leading Windows desktop and Android native development  
+- Active contribution to core products and intelligent data features
+
+**Windows Programmer & Data Intelligence Specialist** — JouyaWeb  
+*Jul 2023 – Jul 2024 (Full-time / On-site)*  
+- Developed and maintained commercial Windows applications  
+- Worked on data processing and automation tools
+
+**Windows Programming Intern** — JouyaWeb  
+*Jul 2024 – Aug 2024*  
+- Focused on Windows development and Python-based database solutions
+
+**Freelance Developer**  
+*Since 2023 – Present*  
+- Delivered multiple client projects in desktop apps, data tools, and student thesis systems
 
 ---
 
-## My Skills and What I'm Learning 👨‍💻👨‍💻:
+### 🛠️ Tech Stack
 
-- **Python**  
-![Python](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
+**Languages & Frameworks**  
+`Python` `C` `C++` `C#` `Kotlin` `Java` `JavaScript` `HTML/CSS` `Node.js`
 
-- **PyQt5/6 desktop Application**  
-![PyQt5/6](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
+**Desktop & UI**  
+`PyQt5` `PyQt6` `Django`
 
-- **SQl**  
-![SQL](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
+**Mobile**  
+`Android Studio` `Kotlin`
 
-- **MySQL**  
-![MySQL](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
+**Databases**  
+`MySQL` `SQLite` `MongoDB`
 
-- **SQLite3**  
-![SQLite3](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
-
-- **NoSQL**  
-![NoSQL](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
-
-- **MongoDB**  
-![NoSQL](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
-
-- **Intelligent Data**  
-![Intelligent Data](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
-
-- **Kotlin**  
-![Kotlin](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
-
-- **Java**  
-![Java](https://github.com/sina-1384hatefesabegh/sina-1384hatefesabegh/blob/main/progress%20bar.png?raw=true)
+**Other**  
+`Computer Vision` `Speech Recognition` `TTS` `Data Intelligence`
 
 ---
 
-## My Certifications 🥇🏅🏆:
+### 🚀 Featured Projects
 
-
-- [Raven International Intelligence Test](https://drive.google.com/file/d/1deKGIODRrdV7kPWtE_6fJPaabuWYHm5V/view?usp=drive_link)
-- - [Supplementary documents](https://drive.google.com/file/d/1HyYNOMwfvggjZCCGfN2i-BrgieuNxRix/view?usp=sharing)
-- **[Advanced Python Master Certificate](https://drive.google.com/file/d/1_qUKxrc0rzv5hGJEINGA9tbPdP-UNgGO/view?usp=sharing)**
-- **[Advanced Python Master Certificate 2](https://drive.google.com/file/d/1_d2Pi-A2pLE7kkDnoBhpz5KMTcXXNgyN/view?usp=sharing)**
-- **[Data Intelligence Certification](https://drive.google.com/file/d/1yYu3hnQNIwPv48_dZgtrWFIY8BrZgxE1/view?usp=sharing)**
-- **[About the Company I Work For](https://drive.google.com/file/d/1YSKPOZin4f3SlYoQKzgy-hnh2d3Aw5yN/view?usp=sharing)**
-- **[About Me on the Official Website of JouyaWeb Software Development Company](https://drive.google.com/file/d/1_SNSHJfVsNrYbDg3TJN8CEqbAAKHOnWm/view?usp=sharing)**
-- **[Advanced Python 3 Certificate](https://drive.google.com/file/d/1VlgX4ZVNAj1a0d1gC1NUk_dR8Zg3utDW/view?usp=sharing)**
-- **[Advanced Python 1 Certificate](https://drive.google.com/file/d/1RPvmtVaaBXsoI8OSO0wN9ZLZap6amd0s/view?usp=sharing)**
-- **[My Resume in English](https://drive.google.com/file/d/1_7IohV8z3n_8OXfbyM08_qKdt9O8de-l/view?usp=sharing)**
-- **[My Resume in Persian](https://drive.google.com/file/d/14jiv6lThl2btq1pThY0QiT6XS6Bn9GK7/view?usp=sharing)**
+| Project | Description | Tech |
+|---------|-------------|------|
+| **[Sina – Offline Persian Voice Assistant](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)** | Full offline/online personal assistant for Windows with 25+ features (email, maps, camera, math, Wikipedia...) | Python, Speech |
+| **[Meta 4](https://azarmeta.com)** | Large-scale commercial Windows application (Abjad calculations, speech tools, OCR, translation...) developed at JouyaWeb | PyQt, AI services |
+| **[Hand Gesture System Controller](https://github.com/sina-1384hatefesabegh/Hand-System-Controler)** | Control mouse and system using hand gestures | Python, OpenCV |
+| **[Hand Gesture Volume Control](https://github.com/sina-1384hatefesabegh/-_Hand-Gesture-Volume-Control)** | Adjust system volume with finger gestures | Python |
+| **[Smart Voice Translator](https://github.com/sina-1384hatefesabegh/voice-smart-translatore-)** | Real-time voice translation application | Python |
 
 ---
 
-## Where Am I Currently Employed? 💻👨‍💻:
+### 🎓 Education
 
-Currently, I am a Senior Windows Programmer at JouyaWeb Software Development Company. Besides this, I take on student, corporate, personal, and administrative projects on a freelance basis. My passion for teaching and sharing my knowledge drives me to create educational content on my YouTube channel, where I provide free tutorials for those eager to learn but may not have the resources.
-
-*["My YouTube Channel *#I would be happy if you join#*"](https://www.youtube.com/channel/UCRcOtBFuftbzudA-xsgmB-g)*
-
----
-
-### Some of My Tutorials:
-- *["Private Session"](https://www.youtube.com/channel/UCRcOtBFuftbzudA-xsgmB-g)*
-
-
-
-
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-**سلام و ادب!**  
-_سجاد آذرمنش_ هستم، ملقب به **هاتف**، متولد سوم مرداد ۱۳۸۴.
+- **B.Sc. Mathematics & Applications** — Semnan University (2025 – Present) · GPA: **17.75**
+- **Computer Science (Minor/Khad)** — Semnan University (Sep 2026 – Present)
 
 ---
 
-**مسیر حرفه‌ای من از کودکی با علاقه به تکنولوژی و مباحث فنی آغاز شد. در سن ۹ سالگی به دنیای رباتیک وارد شدم و با یادگیری رباتیک و الکترونیک پیشرفته این مسیر را ادامه دادم. این تجربه‌ها علاقه من به برنامه‌نویسی را شکل دادند. در ۱۶ سالگی به صورت خودآموز زبان برنامه‌نویسی پایتون را آموختم و سپس به PyQt5 پرداختم تا مهارت‌های طراحی رابط کاربری ویندوزی را نیز کسب کنم.**
+### 📜 Certifications & Courses
 
-_**👨‍💻 برای گسترش دانش و مهارت‌هایم، به صورت مداوم در دوره‌های پیشرفته برنامه‌نویسی و مدیریت پایگاه داده در آموزشگاه‌های معتبر مانند مجتمع فنی تهران و آموزشگاه آی‌تی کندو شرکت کردم. این تلاش‌ها به من این امکان را داد تا علاوه بر یادگیری عملی و خودخوان، مدارک معتبر بین‌المللی و داخلی را در حوزه‌های مختلف برنامه‌نویسی مانند**_ _**پایتون**👨‍💻*_ _**و**_ **پایتون پیشرفته**⚠👨‍💻* _**و**_ _**دیتاکانکتینگ تحت SQL با MySQL**☢👨‍💻_ _**و**_ _**NoSQL با MongoDB**☢👨‍💻_ _**و**_ _**هوشمندسازی**☣👨‍💻_ _**کسب کنم. این مدارک، به من کمک کردند تا به عنوان برنامه‌نویس ارشد ویندوز در شرکت جویاوب مشغول به کار شوم.**_
-
-اولین پروژه صنعتی و نرم‌افزار بزرگ من تحت عنوان 💥“[متا۴](https://azarmeta.com)”💥 در شرکت جویاوب به ثمر رسید که نشان از تخصص و توانایی من در طراحی و توسعه نرم‌افزارهای پیچیده داشت. در کنار فعالیت‌های شرکتی، به کارهای فریلنسری نیز علاقه‌مندم و پروژه‌های متعددی در زمینه‌های هوشمندسازی داده، مدیریت داده‌های ویندوزی، و پروژه‌های پایان‌نامه دانشجویی انجام داده‌ام.
-
----
-
-### از دیگر دستاوردهای من می‌توان به:
-- توسعه‌ی “[دستیار هوشمند صوتی آفلاین فارسی سینا](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)” 👨‍💻👨‍💻
-- توسعه‌ی “[مترجم صوتی](https://github.com/sina-1384hatefesabegh/voice-smart-translatore-)” 🧏‍♂️
-- توسعه‌ی “[سیستم تشخیص گفتار در حل مسائل ریاضیاتی به صورت گفتاری](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)”👨‍💻🧏‍♂️🧏‍♀️➕➖✖➗✔
-- توسعه‌ی “[متانویس (تبدیل گفتار به نوشتار آفلاین)](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)” 👨‍💻🧏‍♂️🧏‍♀️➡🖨
-- توسعه‌ی “[عکس‌خوان (تبدیل متن درون عکس به متن)](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)” 👨‍💻📟➡🖨
-- توسعه‌ی “[کتاب گویا](https://github.com/sina-1384hatefesabegh/Meta4-4/blob/main/README.md)” 👨‍💻🖨➡🧏‍♂️🧏‍♀️
-
-این پروژه‌ها نمایانگر تعهد من به نوآوری و ارتقاء تجربه کاربری در نرم‌افزارهای ویندوزی هستند.
+- MIT 6.00.1x – Introduction to Computer Science and Programming Using Python
+- Harvard CS50 – Introduction to Artificial Intelligence with Python
+- Harvard CS50 – Introduction to Programming with Python
+- Advanced Python Masterclass & multiple professional certificates (Tehran Technical Complex, IT Kandoo)
+- Android Pack with Kotlin
+- C Programming Fundamentals
+- Data Intelligence & Raven International Test
 
 ---
 
-### در نهایت
-مسیر من ترکیبی از تخصص فنی، تلاش مستمر و علاقه بی‌پایان به یادگیری بوده است. اکنون، به عنوان برنامه‌نویس ارشد و متخصص در حوزه‌های مختلف تکنولوژی، همواره در جستجوی فرصت‌های جدید برای به چالش کشیدن خود و ارائه راه‌حل‌های نوآورانه در دنیای برنامه‌نویسی هستم. امیدوارم بتوانم با استفاده از تجربیاتم، ارزش افزوده‌ای برای تیم‌ها و پروژه‌های آینده فراهم کنم.
+### 📫 Contact
+
+- 🌐 Website: [azarmeta.com](https://azarmeta.com)
+- 📧 Email: [baraye.meta@gmail.com](mailto:baraye.meta@gmail.com)
+- 📱 Phone / Telegram: [@Sajjad_Azarmanesh](https://t.me/Sajjad_Azarmanesh)
+- 📸 Instagram: [@sajjad_it_pro](https://www.instagram.com/sajjad_it_pro)
+- ▶️ YouTube: [@electro_code369](https://www.youtube.com/@electro_code369)
 
 ---
 
-### 📞 تماس با من:
-- **09938122801** تلگرام/ایتا/روبیکا
-- **baraye.meta@gmail.com** Gmail
+<div align="center">
+
+⭐️ From [sina-1384hatefesabegh](https://github.com/sina-1384hatefesabegh)
+
+</div>
+
+<br><br>
 
 ---
 
-### مهارت‌های من و چیزهایی که در حال یادگیری‌شان هستم 👨‍💻👨‍💻:
-- Python
-- PyQt5/6 >> Desktop Application
-- SQL
-- MySQL
-- SQLite3
-- MongoDB
-- Intelligence Data
-- Kotlin
-- Java
+<a id="-نسخه-فارسی"></a>
+
+<div align="center">
+
+# سجاد آذرمنش
+### برنامه‌نویس دسکتاپ ویندوز | متخصص پایتون و PyQt | اندروید (کاتلین) | سازنده ابزارهای هوش مصنوعی
+
+</div>
+
+### 👋 درباره من
+
+سلام، من **سجاد آذرمنش** هستم. دانشجوی کارشناسی **ریاضیات و کاربردها** و **علوم کامپیوتر** در دانشگاه سمنان.
+
+از ۹ سالگی با رباتیک و الکترونیک شروع کردم. در ۱۶ سالگی پایتون پیشرفته را خودآموز یاد گرفتم و با **PyQt** شروع به ساخت اپلیکیشن‌های دسکتاپ کردم. الان به عنوان **برنامه‌نویس ارشد ویندوز** در شرکت جویاوب مشغول هستم و همزمان فریلنسری و تولید محتوای آموزشی انجام می‌دهم.
+
+علاقه‌ام ساخت ابزارهای کاربردی است: دستیارهای صوتی آفلاین، سیستم‌های تبدیل گفتار به متن، کنترل سیستم با بینایی کامپیوتر و اپلیکیشن‌های دسکتاپ واقعی.
 
 ---
 
-### مدارک بنده 🥇🏅🏆:
-- [تست بین المللی ریون](https://drive.google.com/file/d/1deKGIODRrdV7kPWtE_6fJPaabuWYHm5V/view?usp=drive_link)
-- - [مدارک تکمیلی](https://drive.google.com/file/d/1HyYNOMwfvggjZCCGfN2i-BrgieuNxRix/view?usp=sharing)
-- - [مدرک پایتون پیشرفته استادی](https://drive.google.com/file/d/1_qUKxrc0rzv5hGJEINGA9tbPdP-UNgGO/view?usp=sharing)
-- [مدرک پایتون پیشرفته استادی ۲](https://drive.google.com/file/d/1_d2Pi-A2pLE7kkDnoBhpz5KMTcXXNgyN/view?usp=sharing)
-- [مدرک هوشمندسازی داده](https://drive.google.com/file/d/1yYu3hnQNIwPv48_dZgtrWFIY8BrZgxE1/view?usp=sharing)
-- [درباره شرکتی که در آن مشغول به کار هستم](https://drive.google.com/file/d/1YSKPOZin4f3SlYoQKzgy-hnh2d3Aw5yN/view?usp=sharing)
-- [درباره من در صفحه رسمی سایت شرکت توسعه نرم‌افزاری جویاوب](https://drive.google.com/file/d/1_SNSHJfVsNrYbDg3TJN8CEqbAAKHOnWm/view?usp=sharing)
-- [مدرک پایتون پیشرفته ۳](https://drive.google.com/file/d/1VlgX4ZVNAj1a0d1gC1NUk_dR8Zg3utDW/view?usp=sharing)
-- [مدرک پایتون پیشرفته ۱](https://drive.google.com/file/d/1RPvmtVaaBXsoI8OSO0wN9ZLZap6amd0s/view?usp=sharing)
-- [صفحه رزومه من به انگلیسی](https://drive.google.com/file/d/1_7IohV8z3n_8OXfbyM08_qKdt9O8de-l/view?usp=sharing)
-- [صفحه رزومه من به فارسی](https://drive.google.com/file/d/14jiv6lThl2btq1pThY0QiT6XS6Bn9GK7/view?usp=sharing)
+### 💼 سوابق شغلی
+
+**برنامه‌نویس ارشد ویندوز و اندروید نیتیو** — شرکت تجارت الکترونیک جویا وب  
+*تیر ۱۴۰۳ – اکنون (پاره‌وقت / دورکاری)*
+
+**میان‌رده برنامه‌نویس ویندوز و هوشمندسازی داده** — جویا وب  
+*تیر ۱۴۰۲ – تیر ۱۴۰۳ (تمام‌وقت / حضوری)*
+
+**کارآموز برنامه‌نویسی ویندوز** — جویا وب  
+*تیر ۱۴۰۴ – مرداد ۱۴۰۴*
+
+**برنامه‌نویس فریلنسر**  
+*از ۱۴۰۲ تاکنون*
 
 ---
 
-### در حال حاضر کجا مشغولم؟ 💻👨‍💻
-در حال حاضر در شرکت توسعه نرم‌افزاری جویاوب به عنوان برنامه‌نویس ارشد ویندوز مشغول به کار هستم و همچنین پروژه‌های دانشجویی، شرکتی، شخصی و اداری را به صورت فریلنسری انجام می‌دهم. علاقه زیادی به تدریس و اشتراک‌گذاری دانش دارم و سعی می‌کنم آنچه را که می‌دانم در کانال یوتیوبم تدریس کنم تا افراد علاقمند به یادگیری، به صورت رایگان آموزش ببینند.
+### 🛠️ مهارت‌ها
 
-- [کانال یوتیوب من - خوشحال می‌شوم عضو شوید](https://www.youtube.com/channel/UCRcOtBFuftbzudA-xsgmB-g)
+**زبان‌ها و فریم‌ورک‌ها**  
+`Python` `C` `C++` `C#` `Kotlin` `Java` `JavaScript` `HTML/CSS` `Node.js`
+
+**دسکتاپ و رابط کاربری**  
+`PyQt5` `PyQt6` `Django`
+
+**موبایل**  
+`Android Studio` `Kotlin`
+
+**پایگاه داده**  
+`MySQL` `SQLite` `MongoDB`
+
+**سایر**  
+`Computer Vision` `Speech Recognition` `TTS` `هوشمندسازی داده`
 
 ---
 
-### نمونه تدریس‌های من:
-- [کانال یوتیوب من - خوشحال می‌شوم عضو شوید](https://www.youtube.com/channel/UCRcOtBFuftbzudA-xsgmB-g)
-- [جلسه خصوصی](https://www.youtube.com/channel/UCRcOtBFuftbzudA-xsgmB-g)
+### 🚀 پروژه‌های شاخص
 
+- **[دستیار صوتی فارسی سینا (آفلاین)](https://github.com/sina-1384hatefesabegh/-a-personal-assistant-for-windows)** — دستیار شخصی کامل با بیش از ۲۵ قابلیت
+- **[متا ۴](https://azarmeta.com)** — نرم‌افزار تجاری بزرگ ویندوز (محاسبات ابجد، ابزارهای گفتاری، OCR و ...)
+- **[کنترل سیستم با حرکات دست](https://github.com/sina-1384hatefesabegh/Hand-System-Controler)**
+- **[کنترل صدا با ژست دست](https://github.com/sina-1384hatefesabegh/-_Hand-Gesture-Volume-Control)**
+- **[مترجم صوتی هوشمند](https://github.com/sina-1384hatefesabegh/voice-smart-translatore-)**
 
+---
 
+### 🎓 تحصیلات
+
+- کارشناسی ریاضیات و کاربردها — دانشگاه سمنان (۱۴۰۴ – اکنون) · معدل **۱۷.۷۵**
+- علوم کامپیوتر (کهاد) — دانشگاه سمنان (شهریور ۱۴۰۵ – اکنون)
+
+---
+
+### 📫 راه‌های ارتباطی
+
+- 🌐 وب‌سایت: [azarmeta.com](https://azarmeta.com)
+- 📧 ایمیل: [baraye.meta@gmail.com](mailto:baraye.meta@gmail.com)
+- 📱 تلگرام: [@Sajjad_Azarmanesh](https://t.me/Sajjad_Azarmanesh)
+- 📸 اینستاگرام: [@sajjad_it_pro](https://www.instagram.com/sajjad_it_pro)
+- ▶️ یوتیوب: [@electro_code369](https://www.youtube.com/@electro_code369)
+
+---
+
+<div align="center">
+
+ساخته شده با ❤️ توسط سجاد آذرمنش
+
+</div>
